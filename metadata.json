@@ -1,0 +1,6 @@
+{
+  "name": "Aether Physics Puzzles",
+  "description": "An advanced, high-performance 2D physics puzzle game featuring 500+ procedural levels, custom ball physics, fluid buoyancy, gravity fields, portals, active shop cosmetics, level creator, and robust multiplayer room synchronization with global leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
